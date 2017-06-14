@@ -3,23 +3,23 @@
 
 	<!-- Kernels -->
 
-  <project path="kernel/lge/msm8992" name="CyanogenMod/android_kernel_lge_msm8992" revision="cm-13.0" />
+  <project path="kernel/lge/msm8992" name="LineageOS/android_kernel_lge_msm8992" revision="cm-13.0" />
   <project path="kernel/asus/moorefield" name="sayeed99/android_kernel_asus_moorefield" revision="Master-6.0.x" />
-  <project path="kernel/oneplus/msm8994" name="CyanogenMod/android_kernel_oneplus_msm8994" revision="cm-13.0" />
-  <project path="kernel/motorola/msm8916" name="CyanogenMod/android_kernel_motorola_msm8916" revision="cm-13.0" />
+  <project path="kernel/oneplus/msm8994" name="LineageOS/android_kernel_oneplus_msm8994" revision="cm-13.0" />
+  <project path="kernel/motorola/msm8916" name="LineageOS/android_kernel_motorola_msm8916" revision="cm-13.0" />
   <project path="kernel/motorola/msm8226" name="koradiavatsal/Viper-kernel" revision="testing" />
-  <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" revision="cm-13.0" />
-  <project path="kernel/lge/mako" name="CyanogenMod/lge-kernel-mako" revision="cm-13.0" />
+  <project path="kernel/lge/hammerhead" name="LineageOS/android_kernel_lge_hammerhead" revision="cm-13.0" />
+  <project path="kernel/lge/mako" name="LineageOS/lge-kernel-mako" revision="cm-13.0" />
   <project path="kernel/xiaomi/armani" name="armani-dev/android_kernel_xiaomi_armani" revision="cm-13.0" />
-  <project path="kernel/moto/shamu" name="CyanogenMod/android_kernel_moto_shamu" revision="cm-13.0" />
-  <project path="kernel/cyanogen/msm8916" name="CyanogenMod/android_kernel_cyanogen_msm8916" revision="staging/cm-13.0-lettuce" />
+  <project path="kernel/moto/shamu" name="LineageOS/android_kernel_moto_shamu" revision="cm-13.0" />
+  <project path="kernel/cyanogen/msm8916" name="LineageOS/android_kernel_cyanogen_msm8916" revision="staging/cm-13.0-lettuce" />
   <project path="kernel/huawei/angler" name="AODP/android_kernel_huawei_angler" revision="cm-13.0" />
-  <project path="kernel/asus/msm8916" name="CyanogenMod/android_kernel_asus_msm8916" revision="cm-13.0" />
-  <project path="kernel/lge/g3" name="CyanogenMod/android_kernel_lge_g3" revision="cm-13.0" />
-  <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" revision="cm-13.0" />
-  <project path="kernel/xiaomi/msm8956" name="CyanogenMod/android_kernel_xiaomi_msm8956" revision="cm-13.0" />
+  <project path="kernel/asus/msm8916" name="LineageOS/android_kernel_asus_msm8916" revision="cm-13.0" />
+  <project path="kernel/lge/g3" name="LineageOS/android_kernel_lge_g3" revision="cm-13.0" />
+  <project path="kernel/lge/msm8974" name="LineageOS/android_kernel_lge_msm8974" revision="cm-13.0" />
+  <project path="kernel/xiaomi/msm8956" name="LineageOS/android_kernel_xiaomi_msm8956" revision="cm-13.0" />
   <project path="kernel/oneplus/onyx" name="sud-vastav/kernel_oneplus_onyx" revision="xosp-mm" />
-  <project path="kernel/lge/bullhead" name="CyanogenMod/android_kernel_lge_bullhead" revision="cm-13.0" />
+  <project path="kernel/lge/bullhead" name="LineageOS/android_kernel_lge_bullhead" revision="cm-13.0" />
   <project path="kernel/wingtech/msm8916" name="kumajaya/android_kernel_cyanogen_msm8916" revision="cm-13.0-amss-2.1-wt88047" />
   
   	<!-- Custom shield repos -->
@@ -40,3 +40,4 @@
   <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" revision="cm-13.0" />
 
 </manifest>
+
